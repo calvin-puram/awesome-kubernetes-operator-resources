@@ -23,7 +23,25 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [Write Kubernetes with the Java Operator SDK](https://developers.redhat.com/articles/2022/02/15/write-kubernetes-java-java-operator-sdk).
 * [Write Kubernetes with the Java Operator SDK](https://developers.redhat.com/articles/2022/02/15/write-kubernetes-java-java-operator-sdk).
 * [Kubernetes operators advanced](https://courses.cognitiveclass.ai/courses/course-v1:IBM+CO0302EN+v1/course/).
-
+* [Build and deploy your first Kubernetes Operator using the Operator SDK.](https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234).
+* [Building a Kubernetes Operator In Python With Zalando’s Kopf](https://medium.com/swlh/building-a-kubernetes-operator-in-python-with-zalandos-kopf-37c311d8edff).
+* [Getting started with Kubernetes operators (Helm Based) - Part 1](https://www.velotio.com/engineering-blog/getting-started-with-kubernetes-operators-helm-based-part-1).
+* [Getting started with Kubernetes operators (Ansible Based) — Part 2](https://medium.com/velotio-perspectives/getting-started-with-kubernetes-operators-ansible-based-part-2-472eb0d453b7).
+* [Getting started with Kubernetes operators (Golang Based) - Part 3](https://www.velotio.com/engineering-blog/getting-started-with-kubernetes-operators-golang-based-part-3).
+* [Kubernetes operators — fundamental concepts](https://medium.com/@vivek-syngh/kubernetes-operators-fundamental-concepts-f9671597acfd).
+* [Getting started with Kubernetes | Operator and operator framework](https://medium.com/@alibaba-cloud/getting-started-with-kubernetes-operator-and-operator-framework-8fe406985e34).
+* [Go Kubernetes operator](https://medium.com/techlogs/go-kubernetes-operator-963461e528c5).
+* [Kubernetes Operators for beginners](https://medium.com/@truestorydavestorey/kubernetes-operators-for-beginners-8f53ead07097).
+* [Creating custom Kubernetes Operators](https://www.weave.works/blog/creating-custom-kubernetes-operators).
+* [Kubernetes Operators in depth](https://www.infoq.com/articles/kubernetes-operators-in-depth/).
+* [Operator pattern](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/).
+* [Defining dependencies in Kubernetes Operators](http://heidloff.net/article/defining-dependencies-kubernetes-operators/).
+* [Kubernetes: when to use, and when to avoid, the operator pattern](https://thenewstack.io/kubernetes-when-to-use-and-when-to-avoid-the-operator-pattern/).
+* [First Steps with the Kubernetes Operator](https://dzone.com/articles/first-steps-with-the-kubernetes-operator).
+* [How to create a custom resource with Kubernetes Operator](https://codilime.com/blog/how-to-create-a-custom-resource-with-kubernetes-operator/).
+* [Security implications of Kubernetes operators](https://snyk.io/blog/security-implications-of-kubernetes-operators/).
+* [Writing kubernetes operators with python](https://www.spectrocloud.com/blog/writing-kubernetes-operators-with-python/).
+* [Developing operators for kubernetes](https://www.maibornwolff.de/en/know-how/developing-operators-for-kubernetes/).
 
 ## Books
 * [Kubernetes Operators: Automating the Container Orchestration Platform](https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/).
