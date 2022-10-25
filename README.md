@@ -17,7 +17,12 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 ## Courses and Tutorials
 * [Kubernetes Operators Patterns and Best Practices](https://developer.ibm.com/articles/kubernetes-operators-patterns-and-best-practices/).
 * [ Introduction to Kubernetes operators](https://cognitiveclass.ai/courses/kubernetes-operators-intermediate).
-* [Learn how to deploy Kubernetes operator written in Golang](https://docs.ovh.com/sg/en/kubernetes/deploying-go-operator/)
+* [Learn how to deploy Kubernetes operator written in Golang](https://docs.ovh.com/sg/en/kubernetes/deploying-go-operator/).
+* [Building and running a Go-based operator](https://sdk.operatorframework.io/docs/building-operators/golang/tutorial/).
+* [Build your Kubernetes operator with the right tool](https://cloud.redhat.com/blog/build-your-kubernetes-operator-with-the-right-tool).
+* [Write Kubernetes with the Java Operator SDK](https://developers.redhat.com/articles/2022/02/15/write-kubernetes-java-java-operator-sdk).
+* [Write Kubernetes with the Java Operator SDK](https://developers.redhat.com/articles/2022/02/15/write-kubernetes-java-java-operator-sdk).
+* [Kubernetes operators advanced](https://courses.cognitiveclass.ai/courses/course-v1:IBM+CO0302EN+v1/course/).
 
 
 ## Books
@@ -41,6 +46,24 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [Write your first simple Kubernetes operator](https://suedbroecker.net/2021/02/05/write-your-first-simple-kubernetes-operator/).
 * [Write your first simple Kubernetes operator](https://suedbroecker.net/2021/02/05/write-your-first-simple-kubernetes-operator/).
 * [Write your first simple Kubernetes operator](https://suedbroecker.net/2021/02/05/write-your-first-simple-kubernetes-operator/).
+* [Create a Java-based Kubernetes Operator using Quarkus](https://www.youtube.com/watch?v=s56LRtdbSB4).
+* [The Automation Challenge: Kubernetes Operators vs Helm Charts](https://www.youtube.com/watch?v=HGHYD7ejBBs).
+* [Creating a Go Operator from scratch](https://www.youtube.com/watch?v=Uu9fwiJBckw).
+* [An overview of Kubernetes operators and the Operator SDK](https://www.youtube.com/watch?v=huX6Sk1lKAY).
+* [Writing a Kubernetes Operator: the Hard Parts](https://www.youtube.com/watch?v=wMqzAOp15wo).
+* [Zero to Operator in 90 Minutes](https://www.youtube.com/watch?v=KBTXBUVNF2I).
+* [A rough guide to Kubernetes Operators](https://www.youtube.com/watch?v=NfxQb--4Wng).
+* [Let's build a Kubernetes Operator in Go!](https://www.youtube.com/watch?v=8Ex7ybi273g&t=328s).
+* [Introduction to Kubernetes Operators and the Operator framework](https://www.youtube.com/watch?v=pTbuHoMp68s).
+* [Get on board with Kubernetes Operators!](https://www.youtube.com/watch?v=JNDjE9-2Bg4).
+* [Kubernetes Operators - Hands on workshop](https://www.youtube.com/watch?v=bWc2D1NSVPQ).
+* [Extending Kubernetes with custom controllers](https://www.youtube.com/watch?v=-MawbsIDSk8).
+* [Deep Dive into the Operator Framework for Kubernetes](https://www.youtube.com/watch?v=8_DaCcRMp5I).
+* [Getting started with Kubernetes Operators in Java](https://www.youtube.com/watch?v=1kePLR2abno).
+* [Writing K8S Operator (Golang) - Part 1](https://www.youtube.com/watch?v=89PdRvRUcPU).
+* [Writing K8S Operator (Golang) - Part 2](https://www.youtube.com/watch?v=MOutOgdXfnA).
+* [Writing K8S Operator (Golang) - Part 3](https://www.youtube.com/watch?v=Wtyj0V4Inmg).
+* [Writing K8S Operator (Golang) - Part 4](https://www.youtube.com/watch?v=BnzfUWQHDzA).
 
 ## Operator Frameworks
 * [Operator SDK](https://github.com/operator-framework/operator-sdk) - Advanced Go SDK for building Kubernetes Operators.
