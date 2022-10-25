@@ -47,6 +47,7 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [Kubernetes Operators: Automating the Container Orchestration Platform](https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/).
 * [The little book of Kubernetes Operators](https://leanpub.com/the-little-book-of-kubernetes-operators).
 * [The Kubernetes Operator Framework Book](https://www.amazon.com/Kubernetes-Operator-Framework-Book-management/dp/1803232854).
+* [Extending Kubernetes: Elevate Kubernetes with Extension Patterns, Operators, and Plugins](https://www.amazon.com/Extending-Kubernetes-Extension-Patterns-Operators/dp/1484270940).
 
 
 ## Videos
