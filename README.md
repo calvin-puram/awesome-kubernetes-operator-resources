@@ -15,6 +15,7 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 
 
 ## Courses and Tutorials
+* [Write Your First Kubernetes Operator in Go](https://shahin-mahmud.medium.com/write-your-first-kubernetes-operator-in-go-177047337eae).
 * [Kubernetes Operators Patterns and Best Practices](https://developer.ibm.com/articles/kubernetes-operators-patterns-and-best-practices/).
 * [ Introduction to Kubernetes operators](https://cognitiveclass.ai/courses/kubernetes-operators-intermediate).
 * [Learn how to deploy Kubernetes operator written in Golang](https://docs.ovh.com/sg/en/kubernetes/deploying-go-operator/).
@@ -51,6 +52,7 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 
 
 ## Videos
+* [Creating Kubernetes Operator using operator-sdk](https://www.youtube.com/watch?v=FHjLL5e7h00).
 * [Writing a Kubernetes Operator from Scratch Using Kubebuilder](https://www.youtube.com/watch?v=LLVoyXjYlYM).
 * [Hands-on Demo: Introduction to Kubernetes Operators](https://www.youtube.com/watch?v=wDLbqlEHuBc).
 * [Kubernetes Operator simply explained in 10 mins](https://www.youtube.com/watch?v=ha3LjlD6g7g).
