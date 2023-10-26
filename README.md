@@ -43,12 +43,19 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [Security implications of Kubernetes operators](https://snyk.io/blog/security-implications-of-kubernetes-operators/).
 * [Writing kubernetes operators with python](https://www.spectrocloud.com/blog/writing-kubernetes-operators-with-python/).
 * [Developing operators for kubernetes](https://www.maibornwolff.de/en/know-how/developing-operators-for-kubernetes/).
+* [A deep dive into kubernetes operators](https://cloudnativenow.com/features/a-deep-dive-into-kubernetes-operators/).
+* [Kubernetes Operator: A Practical Introduction](https://www.linkedin.com/pulse/kubernetes-operator-practical-introduction-bhanu-chaddha/).
+* [How to implement Kubernetes operators with Java Operator SDK](https://developers.redhat.com/articles/2023/08/16/how-implement-kubernetes-operators-java-operator-sdk).
+* [Ultimate Guide to Kubernetes Operators](https://komodor.com/learn/kubernetes-operator/).
+* [Build Your Kubernetes Operator with the Right Tool](https://hazelcast.com/blog/build-your-kubernetes-operator-with-the-right-tool/).
+
 
 ## Books
 * [Kubernetes Operators: Automating the Container Orchestration Platform](https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/).
 * [The little book of Kubernetes Operators](https://leanpub.com/the-little-book-of-kubernetes-operators).
 * [The Kubernetes Operator Framework Book](https://www.amazon.com/Kubernetes-Operator-Framework-Book-management/dp/1803232854).
 * [Extending Kubernetes: Elevate Kubernetes with Extension Patterns, Operators, and Plugins](https://www.amazon.com/Extending-Kubernetes-Extension-Patterns-Operators/dp/1484270940).
+
 
 
 ## Videos
@@ -75,16 +82,22 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [Zero to Operator in 90 Minutes](https://www.youtube.com/watch?v=KBTXBUVNF2I).
 * [A rough guide to Kubernetes Operators](https://www.youtube.com/watch?v=NfxQb--4Wng).
 * [Let's build a Kubernetes Operator in Go!](https://www.youtube.com/watch?v=8Ex7ybi273g&t=328s).
-* [Introduction to Kubernetes Operators and the Operator framework](https://www.youtube.com/watch?v=pTbuHoMp68s).
-* [Get on board with Kubernetes Operators!](https://www.youtube.com/watch?v=JNDjE9-2Bg4).
+* [Introduction to Kubernetes operators and the operator framework](https://www.youtube.com/watch?v=pTbuHoMp68s).
+* [Get on board with kubernetes operators!](https://www.youtube.com/watch?v=JNDjE9-2Bg4).
 * [Kubernetes Operators - Hands on workshop](https://www.youtube.com/watch?v=bWc2D1NSVPQ).
-* [Extending Kubernetes with custom controllers](https://www.youtube.com/watch?v=-MawbsIDSk8).
-* [Deep Dive into the Operator Framework for Kubernetes](https://www.youtube.com/watch?v=8_DaCcRMp5I).
-* [Getting started with Kubernetes Operators in Java](https://www.youtube.com/watch?v=1kePLR2abno).
+* [Extending kubernetes with custom controllers](https://www.youtube.com/watch?v=-MawbsIDSk8).
+* [Deep dive into the operator framework for Kubernetes](https://www.youtube.com/watch?v=8_DaCcRMp5I).
+* [Getting started with kubernetes operators in Java](https://www.youtube.com/watch?v=1kePLR2abno).
 * [Writing K8S Operator (Golang) - Part 1](https://www.youtube.com/watch?v=89PdRvRUcPU).
 * [Writing K8S Operator (Golang) - Part 2](https://www.youtube.com/watch?v=MOutOgdXfnA).
 * [Writing K8S Operator (Golang) - Part 3](https://www.youtube.com/watch?v=Wtyj0V4Inmg).
 * [Writing K8S Operator (Golang) - Part 4](https://www.youtube.com/watch?v=BnzfUWQHDzA).
+* [Everything about kubernetes operators](https://www.youtube.com/watch?v=VAojjIYVhGk).
+* [Becoming a kubernetes developer](https://www.youtube.com/watch?v=fDkoxrz7BXw).
+* [Everything you need to know about Kubebuilder: Write operators like a pro](https://www.youtube.com/watch?v=_XUJ1HoinWA).
+* [Building a Kubernetes Operator for Automated Distributed Tracing](https://www.youtube.com/watch?v=lPpYIYx6gcA).
+
+
 
 ## Operator Frameworks
 * [Operator SDK](https://github.com/operator-framework/operator-sdk) - Advanced Go SDK for building Kubernetes Operators.
