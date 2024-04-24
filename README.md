@@ -104,7 +104,7 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - The SDK for building Kubernetes APIs using CRDs.
 * [Java-operator-sdk](https://github.com/ContainerSolutions/java-operator-sdk) - Java SDK for building Kubernetes Operators.
 * [Shell-operator](https://github.com/flant/shell-operator) - Framework for creating K8s operators from scripts.
-* [k8s-operator-node](https://github.com/flant/shell-operator) - NodeJS Kubernetes operator framework.
+* [k8s-operator-node](https://github.com/dot-i/k8s-operator-node) - NodeJS Kubernetes operator framework.
 * [Csharp-operator-sdk](https://github.com/falox/csharp-operator-sdk) - Build Kubernetes operators with C# and .NET Core.
 * [Bonny](https://github.com/coryodaniel/bonny) - The Elixir based Kubernetes Development Framework.
 * [Abstract-operator](https://github.com/jvm-operators/abstract-operator) - Library/SDK for creating the operators for Kubernetes and Openshift.
