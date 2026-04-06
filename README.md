@@ -110,6 +110,7 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [Bonny](https://github.com/coryodaniel/bonny) - The Elixir based Kubernetes Development Framework.
 * [Abstract-operator](https://github.com/jvm-operators/abstract-operator) - Library/SDK for creating the operators for Kubernetes and Openshift.
 * [Kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
+* [Kube Foundry](https://github.com/kube-foundry/kube-foundry) - Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods.
 * [KubeOps](https://github.com/buehler/dotnet-operator-sdk) - KubeOps is a kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.
 * [Kudo](https://github.com/kudobuilder/kudo) - Kubernetes Universal Declarative Operator.
 * [Metacontroller](https://github.com/GoogleCloudPlatform/metacontroller) - Lightweight Kubernetes controllers as a service.
