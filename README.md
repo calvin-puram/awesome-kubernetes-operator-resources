@@ -101,6 +101,8 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 
 
 ## Operator Frameworks
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 * [Operator SDK](https://github.com/operator-framework/operator-sdk) - Advanced Go SDK for building Kubernetes Operators.
 * [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - The SDK for building Kubernetes APIs using CRDs.
 * [Java-operator-sdk](https://github.com/ContainerSolutions/java-operator-sdk) - Java SDK for building Kubernetes Operators.
