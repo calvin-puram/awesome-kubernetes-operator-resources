@@ -12,6 +12,7 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 - [Operator Frameworks](#operator-frameworks)
 - [Catalogs and Hubs](#catalogs-and-Hubs)
 - [Contributing](#contributing)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 
 ## Courses and Tutorials
