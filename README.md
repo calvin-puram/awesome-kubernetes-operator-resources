@@ -118,6 +118,13 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [Controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery).
 * [Roperator](https://github.com/psFried/roperator) - Experimental Kubernetes Operator kit written in Rust.
 
+## Multi-Cluster & Fleet Management
+* [KubeStellar](https://github.com/kubestellar/kubestellar) - Multi-cluster workload placement with binding policies for distributing workloads across edge and cloud clusters.
+* [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with real-time observability across clusters, AI-assisted operations via MCP, and integrations with Argo CD, Kyverno, Istio, and 20+ CNCF projects.
+
+## Dashboards & UIs
+* [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard providing unified observability, AI-powered operations, and CNCF project integrations across edge and cloud clusters.
+
 ## Catalogs and Hubs
 * [OperatorHub.io](https://operatorhub.io/) - The registry for Kubernetes Operators.
 * [Artifact Hub](https://artifacthub.io/packages/search?operators=true&sort=relevance&page=1) - Find, install and publish Kubernetes packages.
