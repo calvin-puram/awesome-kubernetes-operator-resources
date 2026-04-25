@@ -11,6 +11,8 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 - [Videos](#videos)
 - [Operator Frameworks](#operator-frameworks)
 - [Catalogs and Hubs](#catalogs-and-Hubs)
+- [Multi-Cluster & Fleet Management](#multi-cluster--fleet-management)
+- [Dashboards & UIs](#dashboards--uis)
 - [Contributing](#contributing)
 
 
@@ -122,6 +124,13 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [OperatorHub.io](https://operatorhub.io/) - The registry for Kubernetes Operators.
 * [Artifact Hub](https://artifacthub.io/packages/search?operators=true&sort=relevance&page=1) - Find, install and publish Kubernetes packages.
 
+
+## Multi-Cluster & Fleet Management
+* [KubeStellar](https://github.com/kubestellar/kubestellar) - Multi-cluster configuration management for edge, multi-cloud, and hybrid scenarios using Kubernetes.
+* [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations.
+
+## Dashboards & UIs
+* [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ## Contributing
 
